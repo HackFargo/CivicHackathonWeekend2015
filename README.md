@@ -9,6 +9,10 @@ several data sets -- some new, some old -- that you are welcome
 to use, or not use, for your project. There are also a bunch of
 shape files that have relevant data from around the city of fargo.
 
+The event is held at the Prairie Den in downtown Fargo, starting
+at noon on Saturday 9/19 with demos at 4pm on Sunday. Try to get
+some sleep -- we're closing up at 1am and opening at 10am.
+
 Competition
 -----------
 
