@@ -70,6 +70,25 @@ Be creative!
 
 You have until Sunday at 4pm!
 
+Further Inspiration:
+   * http://polymaps.org/ex/ -- loads of fun visualization
+     that uses geojson mashed with other data sets (including
+     source code for the polymaps library that powers them)
+   * [Leaflet Visualization Framework Examples](https://github.com/humangeo/leaflet-dvf) -- some fun examples
+     including various data sources. [More](https://github.com/humangeo/leaflet-dvf/wiki/2.-Examples)
+   * [8-bit cities](http://8bitcity.com/map?Detroit) -- because why not?
+   * [Interactive Visualization For The Web](http://chimera.labs.oreilly.com/books/1230000000345/ch12.html#_find_shapefiles) -- 
+     a great educational guide to GeoJSON, Shapefiles, and
+     visualizations of data sets using d3.js. Actually heck,
+     the [whole book](http://chimera.labs.oreilly.com/books/1230000000345/index.html) is available for free
+     and is pretty badass.
+   * [D3 + Leaflet + GeoJSON](http://bost.ocks.org/mike/leaflet/) -- the basics on how to get
+     up and running.
+   * [Shapely: Find a point inside a polygon](http://stackoverflow.com/questions/20776205/point-in-polygon-with-geojson-in-python) -- Shapely is 
+     a python library that lets you work magic on geojson files,
+     without needing something more powerful like PostGIS. Perfect
+     for working on a hackathon.
+
 Data Sets
 =========
 
