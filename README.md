@@ -9,6 +9,12 @@ several data sets -- some new, some old -- that you are welcome
 to use, or not use, for your project. There are also a bunch of
 shape files that have relevant data from around the city of fargo.
 
+Remember -- you may elect to build something useful or practical,
+but this does not have to be the case. This is a *hackathon*, and
+you're making a *hack*. Make something that leaves an impression. 
+Something quirky, and clever. Something that makes the judges 
+say "hey, now thats pretty neat". 
+
 This is a fun and light hearted competition. There will be prizes,
 and judging will happen at 4pm on Sunday. Judges will want to see
 projects that relate, in some way, to life in Fargo. Naturally,
