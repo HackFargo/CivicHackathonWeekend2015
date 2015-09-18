@@ -2,12 +2,15 @@
 General manifesto and data sets for the Civic Hackathon Weekend 2015
 
 Philosophy
-==========
+-----------
 
 The theme of this hackathon is 'Civic Data'. We have provided
 several data sets -- some new, some old -- that you are welcome
 to use, or not use, for your project. There are also a bunch of
 shape files that have relevant data from around the city of fargo.
+
+Competition
+-----------
 
 Remember -- you may elect to build something useful or practical,
 but this does not have to be the case. This is a *hackathon*, and
@@ -16,10 +19,18 @@ Something quirky, and clever. Something that makes the judges
 say "hey, now thats pretty neat". 
 
 This is a fun and light hearted competition. There will be prizes,
-and judging will happen at 4pm on Sunday. Judges will want to see
+and demo/judging will happen at 4pm on Sunday. Judges will want to see
 projects that relate, in some way, to life in Fargo. Naturally,
 they will also be impressed if they see software that is functional
 in some way, with extra points for ingenuity and usefulness.
+
+Teams
+------
+
+You may work on your own, or with a team of up to 4 people. 
+
+Ideas
+-----
 
 The best way to go about coming up with a project idea is to 
 think about a life in the day of a citizen. Figure out what
@@ -65,6 +76,9 @@ the leg work to a) curate the dozens of sets down into a few that
 should be relevant for this event and b) convert them all into
 GeoJSON, which is a flat web-friendly format. 
 
+Shapefile Repository
+--------------------
+
 [Go check out the Hack Fargo Shapefile Repo](https://github.com/HackFargo/Shapefiles) -- seriously,
 there's so much we can do with that. Get on it!
 
@@ -77,6 +91,9 @@ Some highlights from the Shapefile repo that are worth mention:
    * Schools, Colleges, Universities
    * Locations of railroad crossings and rail lines
    * Boundaries: City, Roads, River, Counties, States
+
+More Data
+----------
 
 Additional data sets follow. Most of these are either available
 in a folder in this repo, or through a link out to the internet.
