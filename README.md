@@ -1,6 +1,51 @@
 # CivicHackathonWeekend2015
 General manifesto and data sets for the Civic Hackathon Weekend 2015
 
+Philosophy
+==========
+
+The theme of this hackathon is 'Civic Data'. We have provided
+several data sets -- some new, some old -- that you are welcome
+to use, or not use, for your project. There are also a bunch of
+shape files that have relevant data from around the city of fargo.
+
+This is a fun and light hearted competition. There will be prizes,
+and judging will happen at 4pm on Sunday. Judges will want to see
+projects that relate, in some way, to life in Fargo. Naturally,
+they will also be impressed if they see software that is functional
+in some way, with extra points for ingenuity and usefulness.
+
+The best way to go about coming up with a project idea is to 
+think about a life in the day of a citizen. Figure out what
+that citizen cares about, what their job is, what their
+passions and concerns are. Then build something that makes
+their life better. For example, my hypothetical citizen 
+could be a normal, every day person who just wants to be 
+connected with resources around them -- or other people with
+similar hobbies (think specific!). They could be a business
+analyst who wants better tools for helping to make decisions.
+
+For every unique person, you can think of some way that they
+could interact with their city and people around them in
+a better way. This could be through a new tool that helps
+make decisions, or an app that connects people. Or just a
+game that uses civic data sources and educates. Alerts
+on events (social, or emergency). Information on flooding
+or rail roads. Games and competition using real world
+props. Heat maps and charts showing mosquitoes and bike
+share correlation (maybe with twitter to back it up!).
+The only limit is your imagination (and... maybe time!)
+
+Be creative!
+
+   * You could just work on analytics and correlations
+   * You could make apps for other people to use
+   * You could build a service that uses a data set 
+     mashed up with something else
+   * You could just have fun with it, and see what happens
+
+You have until Sunday at 4pm!
+
 Data Sets
 =========
 
