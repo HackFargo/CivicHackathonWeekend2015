@@ -20,7 +20,10 @@ Remember -- you may elect to build something useful or practical,
 but this does not have to be the case. This is a *hackathon*, and
 you're making a *hack*. Make something that leaves an impression. 
 Something quirky, and clever. Something that makes the judges 
-say "hey, now thats pretty neat". 
+say "hey, now thats pretty neat". We want to see you do something
+that is awesome. A successful hack shows creativity, depth, and a
+wow factor. Something that no one would think possible in the 
+scope of a weekend. 
 
 This is a fun and light hearted competition. There will be prizes,
 and demo/judging will happen at 4pm on Sunday. Judges will want to see
