@@ -1,0 +1,35 @@
+Great Rides Bike Share
+Hack Fargo: Civic Hackathon Weekend 2015
+Compiled by Aaron Feickert (aaron.feickert@ndsu.edu)
+
+The most recent version of this document, the datasets, and a list of SHA-256 hashes are found at this URL:
+https://www.ndsu.edu/~aarfeick/hackathon/
+
+To verify the integrity of the datasets in Unix-like environments, run this command:
+sha256sum -c checksum
+
+The file trips.csv contains comma-separated information about each trip taken by a rider or mechanic in the Great Rides system. The first line contains a list of headers. Each subsequent line represents a completed trip and has several components, listed in order of appearance with the corresponding header name:
+- bike_number: This is an identifier for the bike used in the trip. These numbers have been anonymized and do not correspond to the actual identifiers printed on each bike. However, two trips with the same bike number are guaranteed to have used the same bike. Each value for this field is an integer in the range 1-101.
+- checkout_station: This is the name of the station where the trip began.
+- return_station: This is the name of the station where the trip ended.
+- checkout_date: This is the date when the trip began, in the standard format YYYY-MM-DD.
+- return_date: This is the date when the trip ended, in the standard format YYYY-MM-DD.
+- checkout_time: This is the time when the trip began, in the standard 24-hour format HH:MM.
+- return_time: This is the time when the trip ended, in the standard 24-hour format HH:MM.
+- user_type: This indicates what type of user made the trip. Values are one of the following:
+    a. Student: This user is an NDSU student, and used a Bison card to check out the bike.
+    b. Guest: This user purchased a guest pass at the checkout station using a credit or debit card.
+    c. Member: This user purchased a monthly or annual pass online and used an RFID membership card to check out the bike.
+    e. Maintenance: This user is a mechanic and checked out the bike for maintenance or balancing purposes.
+
+The file stations.csv contains comma-separated information about each station in the Great Rides system. The first line contains a list of headers. Each subsequent line represents a station and has several components, listed in order of appearance with the corresponding header name.
+- name: The name of the station. This will match the checkout_station and return_station fields in the trips.csv dataset.
+- latitude: The latitude of the station's location.
+- longitude: The longitude of the station's location.
+- docks: The number of docks installed at the station as of this writing.
+- solar: Whether or not the station is solar-powered (a value of true) or has an AC power connection (a value of false).
+
+Notes:
+1. The system is accessible for checkouts between 06:00 and 11:59 daily. Bikes can be returned at any time; however, a return time between 04:00 and 05:59 is likely misread by the return station and may not be an accurate representation of the actual return time.
+2. Bikes checked in to the Shop station were removed from the fleet for maintenance. When completed, these bikes are checked out from Shop and returned to a station to join the fleet.
+3. Many trips from the first two weeks of system operation were completed for testing purposes. As a result, this data is not included in the trips.csv dataset, which begins on 2015-04-01 for this reason.

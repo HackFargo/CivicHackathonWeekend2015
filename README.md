@@ -84,7 +84,9 @@ in a folder in this repo, or through a link out to the internet.
      who have this huge database of crop data, county by county. I just
      pulled a bunch of aggregate data for Cass County by year, but you
      could totally run your own reports and generate specific data if
-     this interests you. There's a serious amount of data there.
+     this interests you. There's a serious amount of data there. There
+     is also this other huge amount of data from the USDA if interested.
+     [Link here](http://www.ers.usda.gov/data-products/agricultural-productivity-in-the-us.aspx)
 
    * [City of Fargo Building Permits](http://data.cityoffargo.com/files/buildingpermits.csv). An oldie but a goodie. 
      These are kept relatively up to date, and combined with some of the
