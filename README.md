@@ -169,6 +169,12 @@ in a folder in this repo, or through a link out to the internet.
      shape files, and you may have the recipe for some interesting
      project ideas. You may want to get friendly with Chrome's
      developer tools to see how it works. 
+     Examples:
+	
+	* http://matbusmobile.com/portal/feed/v3/fargo/masterRoutes
+	* http://matbusmobile.com/portal/feed/v3/fargo/stops/{route_id}
+	* http://matbusmobile.com/portal/feed/v3/fargo/eta/{stop_id}
+	* http://matbusmobile.com/portal/feed/v3/fargo/vehicles
 
    * Traffic Cam Images. This one is a bit experimental, but maybe it'll
      be useful. These images were pulled from the local traffic cam. 
